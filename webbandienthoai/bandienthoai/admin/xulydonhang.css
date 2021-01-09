@@ -1,0 +1,13 @@
+body{
+    background-image: url(../uploads/BG.jpg);
+    background-repeat:no-repeat;
+    height: 150%;
+    background-position: center;
+    background-size: cover;
+}
+
+h4{
+    text-align: center;
+    
+    background-color: rgb(236, 243, 144);
+}
